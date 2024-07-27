@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/CodingStart/static/css/main.db62923b.css",
+    "main.js": "/CodingStart/static/js/main.b9eb0654.js",
+    "static/js/453.d463cc73.chunk.js": "/CodingStart/static/js/453.d463cc73.chunk.js",
+    "index.html": "/CodingStart/index.html",
+    "main.db62923b.css.map": "/CodingStart/static/css/main.db62923b.css.map",
+    "main.b9eb0654.js.map": "/CodingStart/static/js/main.b9eb0654.js.map",
+    "453.d463cc73.chunk.js.map": "/CodingStart/static/js/453.d463cc73.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.db62923b.css",
+    "static/js/main.b9eb0654.js"
+  ]
+}
