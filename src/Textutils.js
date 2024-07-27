@@ -115,9 +115,9 @@ export default function Textutils(props) {
         <h1 style={{ color: props.mode === "dark" ? "black" : "white" }}>
           Text Summary
         </h1>
-        <p style={{ color: props.mode === "dark" ? "black" : "white" }}>
+      <p style={{ color: props.mode === "dark" ? "black" : "white" }}>
           {" "}
-          {text.length} Characters and {text.split(" ").length} words{" "}
+          {text.length} Characters and {text.split(" ").filter((element)=>{return element.length !==0}).length} words{" "}
         </p>
       </div>
     </div>
